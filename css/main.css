@@ -1,0 +1,23 @@
+.navdar{
+    
+}
+.navdar .nav-tem .nav-link{
+    color: aqua;
+}
+
+.main-header{
+    position: relative;
+    background: url(../img/fondo.jpg);
+    background-size: cover;
+    min-height: 600px;
+}
+
+
+.background-overlay{
+    position: absolute;
+    background:rgba(0, 206, 201,.7);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
